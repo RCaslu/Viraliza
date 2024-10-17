@@ -15,14 +15,7 @@ const DefaultFooter = ({ dark }) => {
               <div className="footer-logo mb-20 wow fadeInRight delay-0-2s animated">
                 <Link legacyBehavior href="/">
                   <a>
-                    <img
-                      src={
-                        dark
-                          ? "assets/images/logos/footer-logo-white.png"
-                          : "assets/images/logos/footer-logo.png"
-                      }
-                      alt="Logo"
-                    />
+                    <h1>VIRALIZA</h1>
                   </a>
                 </Link>
               </div>
@@ -166,11 +159,11 @@ const DefaultFooter = ({ dark }) => {
             <div className="col-xl-4 col-lg-6">
               <div className="copyright-text text-lg-end pt-40 pb-35 rpt-10 wow fadeInLeft delay-0-2s animated">
                 <p>
-                  Copyright @2023,{" "}
+                  Copyright @2024,{" "}
                   <Link legacyBehavior href="/">
-                    <a>Ygency</a>
+                    <a>VIRALIZA</a>
                   </Link>{" "}
-                  All Rights Reserved
+                  Todos os direitos reservados
                 </p>
               </div>
             </div>
