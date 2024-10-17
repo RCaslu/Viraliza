@@ -295,128 +295,36 @@ const Index = () => {
                   className="testimonials-three-active wow fadeInUp delay-0-2s"
                 >
                   <SwiperSlide className="testimonial-item style-three">
-                    <div className="ratting style-two">
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star-half-alt" />
-                    </div>
                     <div className="author-speech">
-                      <img src="assets/images/services/videos.svg" />
+                    <img src="assets/images/services/videos.svg"  />
                     </div>
-                    <div className="middle-quote">
-                      <div className="icon">
-                        <i className="flaticon-right-quote" />
-                      </div>
-                    </div>
-                    <div className="testimonial-footer">
-                      <div className="testimonial-author">
-                        <div className="author-info">
-                          <h4>Richard S. Robertson</h4>
-                          <span className="designation">CEO &amp; Founder</span>
-                        </div>
-                      </div>
-                    </div>
+
+
                   </SwiperSlide>
                   <SwiperSlide className="testimonial-item style-three">
-                    <div className="ratting style-two">
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star-half-alt" />
-                    </div>
                     <div className="author-speech">
-                      <p>
-                        On the other hand we denounce see with righteous
-                        indignation and dislike men who are so beguiled
-                        demoralized by the charms pleasure moment
-                      </p>
+                    <img src="assets/images/services/videos.svg"  />
                     </div>
-                    <div className="middle-quote">
-                      <div className="icon">
-                        <i className="flaticon-right-quote" />
-                      </div>
-                    </div>
-                    <div className="testimonial-footer">
-                      <div className="testimonial-author">
-                        <div className="author-info">
-                          <h4>Richard S. Robertson</h4>
-                          <span className="designation">CEO &amp; Founder</span>
-                        </div>
-                      </div>
-                    </div>
+
+
                   </SwiperSlide>
                   <SwiperSlide className="testimonial-item style-three">
-                    <div className="ratting style-two">
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star-half-alt" />
-                    </div>
                     <div className="author-speech">
-                      <p>
-                        On the other hand we denounce see with righteous
-                        indignation and dislike men who are so beguiled
-                        demoralized by the charms pleasure moment
-                      </p>
+                    <img src="assets/images/services/videos.svg"  />
                     </div>
-                    <div className="middle-quote">
-                      <div className="icon">
-                        <i className="flaticon-right-quote" />
-                      </div>
-                    </div>
-                    <div className="testimonial-footer">
-                      <div className="testimonial-author">
-                        <div className="author-info">
-                          <h4>Richard S. Robertson</h4>
-                          <span className="designation">CEO &amp; Founder</span>
-                        </div>
-                      </div>
-                    </div>
+
+
                   </SwiperSlide>
                   <SwiperSlide className="testimonial-item style-three">
-                    <div className="ratting style-two">
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star" />
-                      <i className="fas fa-star-half-alt" />
-                    </div>
                     <div className="author-speech">
-                      <p>
-                        On the other hand we denounce see with righteous
-                        indignation and dislike men who are so beguiled
-                        demoralized by the charms pleasure moment
-                      </p>
+                    <img src="assets/images/services/videos.svg"  />
                     </div>
-                    <div className="middle-quote">
-                      <div className="icon">
-                        <i className="flaticon-right-quote" />
-                      </div>
-                    </div>
-                    <div className="testimonial-footer">
-                      <div className="testimonial-author">
-                        <div className="author-info">
-                          <h4>Richard S. Robertson</h4>
-                          <span className="designation">CEO &amp; Founder</span>
-                        </div>
-                      </div>
-                    </div>
+
+
                   </SwiperSlide>
                 </Swiper>
                 <div className="testimonial-controls style-three mt-65 rmt-40 wow fadeInUp delay-0-3s animated">
-                  <button className="testimonial-three-prev slick-arrow slick-disabled">
-                    <i className="far fa-long-arrow-left" />
-                  </button>
-                  <div className="testimonial-three-dots">
-                    <div className="slick-dots"></div>
-                  </div>
-                  <button className="testimonial-three-next slick-arrow">
-                    <i className="far fa-long-arrow-right" />
-                  </button>
+
                 </div>
               </div>
             </div>
