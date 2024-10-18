@@ -9,6 +9,7 @@ const Nav = ({ singleMenu }) => {
           <div className="mobile-logo">
             <Link legacyBehavior href="/">
               <a>
+                {/*//TODO: Change this img for the logo */}
                 <img
                   src="assets/images/logos/logo.png"
                   alt="Logo"
