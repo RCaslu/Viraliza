@@ -13,15 +13,7 @@ const DefaultHeader = ({ singleMenu, dark }) => {
               <div className="logo">
                 <Link legacyBehavior href="/">
                   <a>
-                    <img
-                      src={
-                        dark
-                          ? "assets/images/logos/logo-white.png"
-                          : "assets/images/logos/logo.png"
-                      }
-                      alt="Logo"
-                      title="Logo"
-                    />
+                    <h1>VIRALIZA</h1>
                   </a>
                 </Link>
               </div>

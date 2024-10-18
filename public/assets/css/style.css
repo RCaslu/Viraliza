@@ -1,49 +1,5 @@
 @charset "UTF-8";
-/*----------------------------------------------------------------------
-    Template Name: Ygency - Web Agency HTML Template
-    Template URI: https://webtend.net/demo/html/ygency/
-    Author: WebTend
-    Author URI:  https://webtend.net/
-    Version: 1.0
 
-    Note: This is Main Style CSS File. */
-/*----------------------------------------------------------------------
-	CSS INDEX
-	----------------------
-
-    ## Default Style
-    ## Common Classes
-    ## Repeat Style
-    ## Padding Margin
-    ## Custom Animation
-    ## Header style
-    ## Hero Area
-    ## Headline Text
-    ## Page Banner
-    ## About Area
-    ## Service Area
-    ## Blog Area
-    ## Contact Forms
-    ## Counter Area
-    ## Videos Area
-    ## Team Member
-    ## Pricing Area
-    ## Project Grid Area
-    ## FAQs Area
-    ## Features Area
-    ## Shop Area
-    ## Work Process Area
-    ## Skills Area
-    ## CTA Area
-    ## Testimonials Area
-    ## Client Logo Area
-    ## Sidebar Widgets
-    ## Error Area
-    ## Main Footer */
-/* -------------------------------------------------------------- */
-/*******************************************************/
-/******************* ## Default Style ******************/
-/*******************************************************/
 * {
   margin: 0;
   padding: 0;
