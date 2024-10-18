@@ -103,7 +103,7 @@ const DefaultFooter = () => {
                 um marco no seu mercado de atuação.
               </p>
 
-              <form onSubmit={handleSubmit} className="form-container">
+              <form id='forms' onSubmit={handleSubmit} className="form-container">
                 <label>
                   Nome:
                   <input type="text" name="nome" value={nome} onChange={(e) => setNome(e.target.value)} />

@@ -74,11 +74,11 @@ const Index = () => {
                   criamos estratégias que conectam sua marca com o público certo, através de 
                   conteúdos que engajam e produções audiovisuais de impacto.
                   </p>
-                  <Link legacyBehavior href="/about">
+                  <a legacyBehavior href="#forms">
                     <a className="read-more mt-10">
                       Pedir Orçamento <i className="far fa-arrow-right" />
                     </a>
-                  </Link>
+                  </a>
                 </div>
               </div>
             </div>
@@ -118,12 +118,12 @@ const Index = () => {
                     Muitos negócios enfrentam o mesmo desafio: falta de estratégia e de uma imagem profissional que verdadeiramente vende. O resultado? Desperdício de tempo e dinheiro em conteúdos que simplesmente não convertem.
 
                     </p>
-                    <Link legacyBehavior href="/service-details">
+                    <a legacyBehavior href="#forms">
                       <a className="read-more style-two">
-                        <span>Read More</span>{" "}
+                        <span>Pedir Orçamento</span>{" "}
                         <i className="far fa-arrow-right" />
                       </a>
-                    </Link>
+                    </a>
                   </div>
                   
                 </div>
@@ -138,11 +138,11 @@ const Index = () => {
                   aumentar vendas e fortalecer a marca no mercado. Quando alia estratégia a uma produção profissional, os resultados aparecem  
                   e nós fazemos isso acontecer.
                   </p>
-                  <Link legacyBehavior href="/about">
+                  <a legacyBehavior href="#forms">
                     <a className="read-more mt-10">
                       Quero Marketing com Resultado! <i className="far fa-arrow-right" />
                     </a>
-                  </Link>
+                  </a>
                   </div>
                     </div>
                 
@@ -180,9 +180,9 @@ const Index = () => {
               <div className="service-three-item wow fadeInUp delay-0-2s">
                 <div className="title-icon">
                   <h5>
-                    <Link legacyBehavior href="/service-details">
+                    <a legacyBehavior href="#forms">
                       <a>Gestão de redes sociais</a>
-                    </Link>
+                    </a>
                   </h5>
                   <img src="assets/images/services/gestao.svg" width={50} alt="Icon" />
                 </div>
@@ -195,11 +195,11 @@ const Index = () => {
                   nas redes sociais!</p>
 
                   <h5>Sabia que cerca de 75% dos portugueses utilizam a Internet? Aposte onde o seu público está: online!</h5>
-                  <Link legacyBehavior href="/about">
+                  <a legacyBehavior href="#forms">
                     <a className="read-more mt-10">
                     Quero um plano de gestão de redes sociais! <i className="far fa-arrow-right" />
                     </a>
-                  </Link>
+                  </a>
                 </div>
               </div>
             </div>
@@ -207,9 +207,9 @@ const Index = () => {
               <div className="service-three-item wow fadeInDown delay-0-2s">
                 <div className="title-icon">
                   <h5>
-                    <Link legacyBehavior href="/service-details">
+                    <a legacyBehavior href="#forms">
                       <a>Produção de vídeos externa</a>
-                    </Link>
+                    </a>
                   </h5>
                   <img src="assets/images/services/camera2.svg" width={50} alt="Icon" />
                 </div>
@@ -219,11 +219,11 @@ const Index = () => {
                     equipamentos de última geração e edição de alta qualidade, entregando vídeos que capturam 
                     os momentos mais importantes com rapidez e precisão. Quer seja para eventos, lançamentos ou 
                     anúncios, nós garantimos uma produção impecável.</p>
-                    <Link legacyBehavior href="/about">
+                    <a legacyBehavior href="#forms">
                     <a className="read-more mt-10">
                     Quero vídeos profissionais de qualidade <i className="far fa-arrow-right" />
                     </a>
-                  </Link>
+                  </a>
                 </div>
               </div>
             </div>
@@ -231,9 +231,9 @@ const Index = () => {
               <div className="service-three-item wow fadeInUp delay-0-2s">
                 <div className="title-icon">
                   <h5>
-                    <Link legacyBehavior href="/service-details">
+                    <a legacyBehavior href="#forms">
                       <a>Estúdio de Podcast e Vídeos</a>
-                    </Link>
+                    </a>
                   </h5>
                   <img src="assets/images/services/videos.svg" width={50} alt="Icon" />
                 </div>
@@ -245,11 +245,11 @@ const Index = () => {
                     fotografia, tudo com o mais alto padrão de qualidade.
                     E tudo isso em plena Lisboa!
                   </p>
-                  <Link legacyBehavior href="/about">
+                  <a legacyBehavior href="#forms">
                     <a className="read-more mt-10">
                     Quero gravar podcasts e vídeos de alto padrão <i className="far fa-arrow-right" />
                     </a>
-                  </Link>
+                  </a>
                 </div>
               </div>
             </div>
@@ -317,7 +317,7 @@ const Index = () => {
                   </SwiperSlide>
                   <SwiperSlide className="testimonial-item style-three">
                     <div className="author-speech">
-                    <img src="assets/images/services/videos.svg"  />
+                    <img src="assets/images/clientes/febracis.jpg"  />
                     </div>
 
 
